@@ -35,15 +35,15 @@ This Python program performs two main functions:
 ## 🧾 Sample Output
 
 ```
-Enter your first no. 10
+Enter your first no. 15
 Enter your second no. 5
-addition=  15
-subraction=  5
-multiplication=  50
-division= 2.0
-Please Enter Your first name John
-Please Enter Your last name Doe
-Hello, John Doe Welcome To Our home
+addition=  20
+subraction=  10
+multiplication=  75
+division= 3.0
+Please Enter Your first name Ram
+Please Enter Your last name Singh
+Hello, Ram Singh Welcome To Our home
 ```
 
 ---
